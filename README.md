@@ -11,10 +11,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Robert | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Robert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Robert | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 
 [facebook]: https://facebook.com/profile.php?id=61560326337736
 [linkedin]: https://linkedin.com/in/robert-mcbrien-91961032b
