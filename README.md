@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/
 [facebook]: https://facebook.com/profile.php?id=61560326337736
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/robert-mcbrien-91961032b
